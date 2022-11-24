@@ -1,1 +1,2 @@
 # ProjectValorant
+bot plays csgo
