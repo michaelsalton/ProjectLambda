@@ -1,7 +1,7 @@
-# ProjectValorant
+# Project Lambda
 
 
-Project Valorant is a project made by 6 Western University students in Western AI. 
+Project Lambda is a project made by 3 Western University students in Western AI. 
 
 We are creating an AI bot to play Counter Strike: Global Offensive.
 
