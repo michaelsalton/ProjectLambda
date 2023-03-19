@@ -15,4 +15,6 @@ relying purely on the visuals on the screen. We look to compare
 the behaviour and realism of an AI built with pathfinding vs an
 AI built with machine learning.
 
+Paper: https://github.com/michaelsalton/ProjectLambda/blob/main/Comparing_AI_Navigation_Methods_Using_Counter_Strike__Global_Offensive.pdf
+
 Video Demo: https://www.youtube.com/watch?v=huGKr469u5g
