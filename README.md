@@ -14,3 +14,5 @@ can match the performance and behaviour of real players while
 relying purely on the visuals on the screen. We look to compare
 the behaviour and realism of an AI built with pathfinding vs an
 AI built with machine learning.
+
+Video Demo: https://www.youtube.com/watch?v=huGKr469u5g
